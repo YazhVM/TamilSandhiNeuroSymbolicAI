@@ -1,7 +1,7 @@
 # Tamil Sandhi - A neuro-symbolic AI toolkit 
 ## About repo
 
-This repository accompanies the paper **“TamilSandhi: A Neuro-Symbolic AI Toolkit for Correcting Sandhi Errors in Tamil”** _(to be presented at the AI-2025 Forty-fifth SGAI International Conference on Artificial Intelligence, CAMBRIDGE, ENGLAND 16-18 DECEMBER 2025)_
+This repository accompanies the paper **“TamilSandhi: A Neuro-Symbolic AI Toolkit for Correcting Sandhi Errors in Tamil”** _(to be presented at the AI-2025 Forty-fifth SGAI International Conference on Artificial Intelligence, CAMBRIDGE, ENGLAND 16-18 DECEMBER 2025)
 
 ## Abstract of the paper
 Tamil is an agglutinative and highly inflectional language with rich morphology. Sandhi errors are a class of spelling mistakes in Tamil that occur at word boundaries due to incorrect insertion or omission of hard consonants. This paper presents TamilSandhi, an open-source neuro-symbolic framework for identifying and correcting such errors. It combines rule-based logic for simple Sandhi rules with neural models for one complex rule. The rule-based system implements 12
